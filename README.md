@@ -395,13 +395,13 @@ rna_workflow_app/
 
 ### License
 
-[Add your license here]
+This project is licensed under the MIT License - see the LICENSE file for details.
 
 ### Contributing
 
-[Add contributing guidelines if applicable]
+Contributions are welcome! 
 
 ### Support
 
-For issues, questions, or contributions, please [create an issue] or [contact the maintainer].
+For issues, questions, or contributions, please create a GitHub issue. or contact @deep-kapadia-6.
 
